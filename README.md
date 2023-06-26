@@ -1,4 +1,4 @@
-~distribution and modification of this content is not prohibited and greatly encouraged. create something new.~
+` distribution and modification of this content is not prohibited and greatly encouraged. create something new.`
 
 # hexblue
 repo for color ramp generator website, hex.blue
