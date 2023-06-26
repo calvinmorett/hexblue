@@ -1,8 +1,7 @@
 # hexblue
 repo for color ramp generator website, hex.blue
 
-![image](https://user-images.githubusercontent.com/11654917/235321515-9bc9f1ef-e96a-4e3d-8ed0-36443c237e86.png)
-
+![image](https://github.com/calvinmorett/hexblue/assets/11654917/163379f1-38ca-4d5c-8ffb-ff87305f0cb5)
 
 HOW TO IMPORT A PALETTE
 ----
