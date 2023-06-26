@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Priority tags. These must come first. -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge; chrome=1"> <!-- Render Chrome if available or using latest version of Internet Explorer (Recommended). -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+		<meta name="description" content="hex.blue is a website that allows users to create Color Ramps. Great for pixel art or color themes.">
+		<meta name="author" content="calvin">
+		<meta name="keywords" content="color ramps, color, hex values, color themes, color palletes, generation, color generator, idea generator, color concepts, pallete creater, pallete creator, color pallete generator, color pallete generation, color lovers">
+ 
+		<meta property="og:title" content="hex.blue - color ramp generator">
+		<meta property="og:url" content="https://hex.blue"> 
+		<link rel="canonical" href="https://hex.blue">
+		<meta property="og:image" content="hexblueog.png">
+		
+	<title>hex.blue</title>	
+		
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/grd/1.2.3/grd.css">
+	<link rel="stylesheet" href="hexstyle.css?v1">
+		
+	<!-- Google tag (gtag.js) -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-QSCDZBEF0V"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-QSCDZBEF0V');
+	</script>	
+</head>
+	
+<body>
+	<div class="wrapper">
+
+		<div class="Grid">
+			<div class="Cell -6of12">
+				<div class="bgshade"></div>
+				<div id="copy-message"></div>
+
+				<div class="heading">
+<!-- 					<h1><a href="hex.blue">hex.<span>blue</span></a></h1> -->
+					<h2><a href="https://github.com/calvinmorett/hexblue/issues" class="questionmark">Contribute on GitHub</a></h2>
+				</div>
+
+				<div class="platform" id="color-display">
+
+					<div class="tools">
+						<button onclick="random_bg_color_updatecr();">Randomize Color</button>
+						<button onclick="copyAllColorRamps();">Copy Color Ramp</button>
+
+						<div class="color-selection">
+							<label for="color-picker">Select a Color:</label>
+							<input type="color" id="color-picker" name="color-picker" onchange="updateColor()">
+						</div>
+					</div>
+					<hr>
+
+					<div class="Grid boxes">
+						<div class="Cell colorramp -3of12">
+						</div>
+						<div class="Cell colorramp -3of12">
+						</div>
+						<div class="Cell colorramp -3of12">
+						</div>
+						<div class="Cell colorramp -3of12">
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+			<!-- 		end grid cell -->
+			<div class="Cell -6of12 pl30">
+
+				<section class="examples">
+
+					<div class="wordart">
+						¡Hello
+						<br>
+						World!
+					</div>
+
+					<div class="firstblock"></div>
+					<div class="secondblock"></div>
+					<div class="thirdblock"></div>
+					<div class="fourthblock"></div>
+
+					<div class="hexbluelogo">
+						<h1 class="addspan"><span>H</span>
+							<span>e</span>
+							<span>x</span>
+							<span>.</span>
+							<span>B</span>
+							<span>l</span>
+							<span>u</span>
+							<span>e</span>
+						</h1>
+					</div>
+
+					<div class="gradient1"></div>
+					<div class="gradient2"></div>
+
+					<div class="popup">
+						<div class="toolbar">
+							<!-- 			start toolbar -->
+							<div class="title">animals.push('cows');</div>
+
+							<div class="rightside">
+								<!-- 			start rightside -->
+								<div class="min">-</div>
+								<div class="max">[]</div>
+								<div class="close">x</div>
+							</div><!-- 			end rightside -->
+						</div><!-- 			end toolbar -->
+
+						<div class="content">
+							<p>The <code>push()</code> method adds one or more elements to the end of an array and returns the new length of the array.</p>
+							<button>Ok</button>
+							<button>Cancel</button>
+						</div>
+						</div><!-- 			end popup -->
+					
+					<div class="details">
+						<details>
+							
+<!-- 							<p>The <code>:not()</code> CSS pseudo-class represents elements that do not match a list of selectors. Since it prevents specific items from being selected, it is known as the negation pseudo-class.</p> -->
+							
+							<summary>Not Joke</summary>
+						</details>
+					</div>
+
+					<div class="dogtags">
+						<p>A loyal friend laughs at your jokes
+							<br>when they're not so good, and
+							<br>sympathizes with your problems
+							<br>when they're not so bad.
+						</p>
+					</div>
+			</div>
+			<!-- 			end cell -->
+		</div>
+		<!-- 			end grid -->
+		</section>
+		<!-- 		end section -->
+
+	</div>
+	<!-- 		end grid cell -->
+	</div>
+	<!-- 		end wrapper cell -->
+	
+	<script type="text/javascript" src="hexblue.js"></script>
+</body>
+<html>
