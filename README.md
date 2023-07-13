@@ -1,8 +1,7 @@
-`distribution and modification of this content is not prohibited and greatly encouraged. create something new.`
-
 ![logo](https://github.com/calvinmorett/hexblue/assets/11654917/c550a5b2-b1ad-42b7-a278-4eeea0b92ac7)
 
 logo design by @jaykesarkar
+
 
 # hexblue
 repo for color ramp generator website, hex.blue
@@ -20,3 +19,5 @@ ASEPRITE
 - Click on Color from the top menu
 - Select Import from image...
 - Find the palette file you downloaded and click Open
+
+`distribution and modification of this content is not prohibited and greatly encouraged. create something new.`
