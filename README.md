@@ -1,4 +1,7 @@
-` distribution and modification of this content is not prohibited and greatly encouraged. create something new.`
+`distribution and modification of this content is not prohibited and greatly encouraged. create something new.`
+
+![image](https://github.com/calvinmorett/hexblue/assets/11654917/20d169a7-db67-41c1-a17c-273ad51da3d6)
+logo design by @jaykesarkar
 
 # hexblue
 repo for color ramp generator website, hex.blue
