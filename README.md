@@ -1,7 +1,6 @@
 `distribution and modification of this content is not prohibited and greatly encouraged. create something new.`
 
-![image](https://github.com/calvinmorett/hexblue/assets/11654917/20d169a7-db67-41c1-a17c-273ad51da3d6)
-
+![logo](https://github.com/calvinmorett/hexblue/assets/11654917/c550a5b2-b1ad-42b7-a278-4eeea0b92ac7)
 logo design by @jaykesarkar
 
 # hexblue
